@@ -42,7 +42,7 @@ y tengo experiencia en **Java**, **Azure** y ecosistemas financieros gracias a m
 
 ## 🌐 Conéctate conmigo  
 
-📫 **Email:** lurgiayupa@example.com  
+📫 **Email:** lurgiayupaarias@gmail.com 
 💼 [LinkedIn](https://www.linkedin.com/in/lurgia-yupa-arias/)  
 🎨 [Portafolio / Website](https://lurgia9072.github.io/lia-yupa/build/)  
 🐙 [GitHub](https://github.com/Lurgia9072)
