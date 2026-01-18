@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy **Lurgia Yupa**  
 
-💻 **Frontend Developer | UI/UX Designer | Tech Enthusiast**  
+💻 **FullStack Developer | UI/UX Designer | Tech Enthusiast**  
 Apasionada por crear experiencias digitales intuitivas, seguras y con impacto.  
 Combino **diseño, tecnología y lógica de negocio** para construir soluciones que realmente funcionen.  
 
